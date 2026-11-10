@@ -1,0 +1,10 @@
+NJA TACK 6.28-rc5 / FM-1_65262805
+Repository: https://github.com/NjamesZ/nja-tack-fm1
+Experimental candidate. One controlled install of this exact package succeeded on 10 November 2026 at 11:32 HKT. An independent post-reboot handshake reported running identity FM-1_65262805.
+That install does not establish RC5 audio, hardware timing, voice budget, or the exact-file V15 / other-firmware / leave / USB / interruption matrix. Those tests remain pending.
+Audio/record/control implementation unchanged from RC3 except tack_app.c draw-only UI and boot-version text.
+Separate persistence JEDEC gate accepts both known chips; physical writes on both chips remain pending for this exact candidate.
+Historical RC4/FM-1_992 is superseded local-only due to Hub range collision.
+RC3 hardware trial received positive subjective user feedback. Inherited baseline-matched host MIDI/UI/preset failures and a sanitizer timeout are unresolved.
+No full-suite pass, Firmware Hub acceptance, or VIBE compatibility is claimed. No git tag or GitHub Release has been created.
+See docs/TESTING.md, docs/INSTALL.md, docs/HUB-READINESS.md and LICENSING.md.
