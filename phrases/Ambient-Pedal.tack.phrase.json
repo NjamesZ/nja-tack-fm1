@@ -1,0 +1,43 @@
+{
+  "format": "tack-phrase/1",
+  "name": "Ambient-Pedal",
+  "savedAt": "2026-10-25T05:42:34.138Z",
+  "source": {
+    "app": "nja-constraint",
+    "style": "Ambient Pad",
+    "corpus": {
+      "progression": "pedal-I-V",
+      "scale": "dorian",
+      "root": "D"
+    }
+  },
+  "tempo": 66,
+  "meter": "4/4",
+  "root": "D",
+  "mode": "dorian",
+  "styleHint": "AMBIENT",
+  "rhythm": "SPARSE",
+  "progressionId": "pedal-I-V",
+  "chords": [
+    {
+      "degree": 0,
+      "quality": "min",
+      "bars": 1
+    },
+    {
+      "degree": 0,
+      "quality": "min",
+      "bars": 1
+    },
+    {
+      "degree": 4,
+      "quality": "min",
+      "bars": 1
+    },
+    {
+      "degree": 4,
+      "quality": "min",
+      "bars": 1
+    }
+  ]
+}

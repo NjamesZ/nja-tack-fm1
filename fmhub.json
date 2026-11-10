@@ -1,0 +1,9 @@
+{
+  "what": "A harmony-focused groovebox with six hardware move choices and MIDI phrase recording. Close-onset chords keep their pitches while melody follows the scale. Four recorded voices; performance metadata is RAM-only. Experimental candidate.",
+  "author": "NJA",
+  "kinds": [
+    "chords"
+  ],
+  "image": "docs/images/loop-rc5.png",
+  "color": "#70C4B0"
+}

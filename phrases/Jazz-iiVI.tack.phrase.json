@@ -1,0 +1,43 @@
+{
+  "format": "tack-phrase/1",
+  "name": "Jazz-iiVI",
+  "savedAt": "2026-10-25T05:42:34.141Z",
+  "source": {
+    "app": "nja-constraint",
+    "style": "Jazz",
+    "corpus": {
+      "progression": "ii-V-I",
+      "scale": "dorian",
+      "groove": "jazz"
+    }
+  },
+  "tempo": 104,
+  "meter": "4/4",
+  "root": "C",
+  "mode": "dorian",
+  "styleHint": "JAZZ",
+  "rhythm": "SYNC",
+  "progressionId": "ii-V-I",
+  "chords": [
+    {
+      "degree": 1,
+      "quality": "min7",
+      "bars": 1
+    },
+    {
+      "degree": 4,
+      "quality": "dom7",
+      "bars": 1
+    },
+    {
+      "degree": 0,
+      "quality": "maj7",
+      "bars": 1
+    },
+    {
+      "degree": 0,
+      "quality": "maj7",
+      "bars": 1
+    }
+  ]
+}

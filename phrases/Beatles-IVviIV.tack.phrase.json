@@ -1,0 +1,43 @@
+{
+  "format": "tack-phrase/1",
+  "name": "Beatles-IVviIV",
+  "savedAt": "2026-10-25T05:42:34.141Z",
+  "source": {
+    "app": "nja-constraint",
+    "style": "Sparse Piano",
+    "corpus": {
+      "progression": "I-V-vi-IV",
+      "scale": "major",
+      "root": "C"
+    }
+  },
+  "tempo": 112,
+  "meter": "4/4",
+  "root": "C",
+  "mode": "major",
+  "styleHint": "BEATLES",
+  "rhythm": "WHOLE",
+  "progressionId": "I-V-vi-IV",
+  "chords": [
+    {
+      "degree": 0,
+      "quality": "maj",
+      "bars": 1
+    },
+    {
+      "degree": 4,
+      "quality": "maj",
+      "bars": 1
+    },
+    {
+      "degree": 5,
+      "quality": "min",
+      "bars": 1
+    },
+    {
+      "degree": 3,
+      "quality": "maj",
+      "bars": 1
+    }
+  ]
+}
