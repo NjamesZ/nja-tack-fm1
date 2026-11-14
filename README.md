@@ -113,3 +113,5 @@ Distribute the matching full source archive and licence files with binary
 releases, including the populated `firmware/engines/` directory. A source-only
 forge ZIP is not a substitute if it omits engines. Toolchain and SDK prerequisites
 are documented rather than bundled. Firmware installation is at your own risk.
+
+You can also try Nja Tack in the browser, no flashing needed, in the free community [FM-1 Emulator](https://fm1-emulator.atst.tools/).
